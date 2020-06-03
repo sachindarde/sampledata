@@ -1,3 +1,19 @@
 {
-	"name":"sachin"
+    "currentPage": 0,
+    "pageNo": 0,
+    "pageCount": 0,
+    "reportData": [
+        {
+            "reportName": "Report Name 2",
+            "userName": "Abfl user",
+            "powerBILink": "https://www.google.com",
+            "lastRunTime": "02-06-2020 15:14:34"
+        },
+        {
+            "reportName": "Report Name 2",
+            "userName": "Abfl user",
+            "powerBILink": "https://www.google.com",
+            "lastRunTime": "02-06-2020 15:15:16"
+        }
+    ]
 }
